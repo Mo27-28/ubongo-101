@@ -124,7 +124,7 @@ for i in range(0,4):
     summ+=arr[i][3]+arr[i][2]+arr[i][1]+arr[i][0] 
 
 ## inputting the four puzzle pieces
-print ("please, input the 4 puzzle peices shapes ")
+print ("please, input the shapes of the 4 puzzle pieces ")
 
 ##giving each puzzle piece a special indication number
 for i in range(0,4):
